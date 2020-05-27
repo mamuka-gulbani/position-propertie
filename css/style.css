@@ -1,0 +1,19 @@
+.body1 { background-color: #22B573 }
+.image1 {
+    position: absolute;
+    width: 876px;
+    right: 50PX;
+    top: 50px;
+}
+.nav-li {
+	color: white;
+	display: inline-block;
+	margin-left: 15px;
+}
+.header {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: #22B573;
+    border: 4px solid #006837;
+}
