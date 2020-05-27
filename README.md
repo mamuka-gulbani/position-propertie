@@ -1,1 +1,1 @@
-# position-propertie
+# position properties
